@@ -1,0 +1,100 @@
+Content
+Unit 1
+What is Machine Learning - Alpaydin ch1
+Learning paradigms 
+	- Alpaydin ch1 1.2
+	- Abu Mostafa - Learning  from data - Ch 1.2
+Perspective & issues
+	- Tom Mitchell ch 1.3
+Version spaces
+	- Tom Mitchell ch 2
+	- Alpaydin ch 2.1 p24
+	- Bryan pardo slides in  material
+Finite/Infinite Hypothesis PAC
+	- Mohri ch2
+	- Alpaydin ch2.3
+	- 4 slides in material
+----------
+
+Unit 2
+Supervised/unsupervised - KevinMurphy ch1.2, 1.3
+	- Alpaydin ch1.2.4, 2
+Learning a Class from Examples 
+	- Alpaydin ch2.1
+VC Dimension 
+	- Alpaydin ch2.2
+	- Abu Mostafa Ch2
+Multi-class
+	- Alpaydin ch2,5
+Multi-label
+	- slides in material
+
+Linear, Non-linear,
+	- Trevor Hastie ch3.1, 3.2
+
+Generalization error bounds:
+	- Abu Mostafa ch2.2, 2.3
+
+Decision trees 
+	- Alpaydin ch9
+	- Tom Mitchell ch3
+	- Charu Aggrawal Ch4.3, 4.5
+
+Linear Regression
+	- Trevor Hastie - ch3.2
+	- Hastie - Intro to statistical learning ch3.1, 3.2
+	- Moestafa ch3.1
+Logistic Regression
+	- hastie ISL ch4.6	
+	- Mostafa ch3.2
+
+-------------
+
+Supervised Learning 2
+Neural networks
+Perceptron, Multilayer perceptron
+	- Charu - classification -ch8.3 8.5
+	- Alpaydin ch11.2 11.5	
+	- Tom  Mitchell ch4
+SVM
+	- Charu - classification -ch7
+	- Kevin Murphy - ch14.2, 14.5
+	- Hastie - ISL ch9
+	- Mohri ch4
+KNN	- Hastie ch13.3
+-------------
+uNIT3
+Ensemble learning, Model combo, voting, error corrrecting, bagging, boosting, stacking
+	- Alpaydin ch 17.3 - 17.9
+	- Hastie ch16
+	- Hastie ISL, ch8
+Adaboost
+	- Mohri 6.2
+
+
+------------
+Unit4
+Unsupervised learning
+Kmeans 	- charu clustering - 4.2.1, HAstie ISL 10.3
+Kmode 	- Charu clustering 4.2.4
+SOM	- Hastie elemofSL 	14.4
+EM, GMM - Murphy ch11
+	- BishopML ch 9
+
+
+--------------
+Unit5
+Naïve Bayes Classifier Charu_C._Aggarwal,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Data_Classification Algorithms and_Applications, ch 3.2
+
+----------
+Unit 6
+Learning Association Rules - Han and Kambler, data mining ch 6
+
+
+-------
+Unit 7
+Design, Analysis and Evaluation of Expts
+
+- Alpyadin - ch 19
+- 
+
